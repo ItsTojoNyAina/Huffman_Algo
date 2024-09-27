@@ -1,0 +1,17 @@
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\bin\Debug\net8.0\Huffman_Compression.exe
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\bin\Debug\net8.0\Huffman_Compression.deps.json
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\bin\Debug\net8.0\Huffman_Compression.runtimeconfig.json
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\bin\Debug\net8.0\Huffman_Compression.dll
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\bin\Debug\net8.0\Huffman_Compression.pdb
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\obj\Debug\net8.0\Huffman_Compression.csproj.AssemblyReference.cache
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\obj\Debug\net8.0\Huffman_Compression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\obj\Debug\net8.0\Huffman_Compression.AssemblyInfoInputs.cache
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\obj\Debug\net8.0\Huffman_Compression.AssemblyInfo.cs
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\obj\Debug\net8.0\Huffman_Compression.csproj.CoreCompileInputs.cache
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\obj\Debug\net8.0\Huffman_.8D435ED2.Up2Date
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\obj\Debug\net8.0\Huffman_Compression.dll
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\obj\Debug\net8.0\refint\Huffman_Compression.dll
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\obj\Debug\net8.0\Huffman_Compression.pdb
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\obj\Debug\net8.0\Huffman_Compression.genruntimeconfig.cache
+C:\Users\itsto\source\repos\Huffman_Compression\Huffman_Compression\obj\Debug\net8.0\ref\Huffman_Compression.dll
